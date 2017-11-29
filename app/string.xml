@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+-<resources>
+
+<string name="app_name">Gokulmn.omnify.hire</string>
+
+<string name="RANDOM">Random</string>
+
+<string name="SORT">Sort</string>
+
+<string name="sort">sort</string>
+
+</resources>
